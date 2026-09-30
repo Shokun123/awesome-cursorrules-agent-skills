@@ -1,0 +1,21 @@
+{
+  "name": "awesome-cursorrules-agent-skills",
+  "version": "1.0.0",
+  "description": "Curated collection of battle-tested .cursorrules and AI coding agent skills for Cursor, Claude Code, and Antigravity",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/test_rules.js"
+  },
+  "keywords": [
+    "cursorrules",
+    "cursor-ai",
+    "claude-code",
+    "antigravity",
+    "ai-agent",
+    "system-prompts",
+    "developer-tools"
+  ],
+  "author": "Shokun123",
+  "license": "MIT"
+}

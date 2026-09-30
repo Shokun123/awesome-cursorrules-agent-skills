@@ -1,0 +1,21 @@
+{
+  "title": "CursorRules & AI Coding Agent Skills Enterprise Super-Pack",
+  "version": "1.0.0",
+  "author": "Shokun123",
+  "payoutDestination": {
+    "binanceUid": "1049392123",
+    "username": "User-79a91"
+  },
+  "rulesCount": 50,
+  "supportedEditors": ["Cursor", "Antigravity", "Claude Code", "GitHub Copilot", "Windsurf"],
+  "includedStacks": [
+    "Next.js 15 App Router",
+    "FastAPI & Pydantic v2",
+    "Rust & WebAssembly",
+    "Docker Microservices",
+    "Supabase & PostgreSQL RLS",
+    "Tailwind CSS & Shadcn/UI",
+    "Solana Web3 & Anchor",
+    "Node.js Zero-Dependency Serverless"
+  ]
+}
